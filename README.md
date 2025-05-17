@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">Hello, I'm Georg Herison, a software engineering student at the Digital Metropolis Institute (IMD) at UFRN. I love playing video games and going to the supermarket.  :nerd_face: :technologist: </p> 
+<p align="left">
+  Hello, I'm Georg Herison, a software engineering student at the Digital Metropolis Institute (IMD) at UFRN.  
+  I love playing video games and going to the supermarket. 🤓👨‍💻  
+  <br><br>
+  I currently work as a full-stack developer on large-scale and government-related projects.
+</p>
 
 ###
 
